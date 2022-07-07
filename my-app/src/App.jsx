@@ -6,7 +6,8 @@ import Post from "./Post";
 function App(){
     return(
         <div>
-            <Post/>
+            <h1>WHat is up</h1>
+            {/* <Post/> */}
         </div>
     )
 }
